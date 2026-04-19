@@ -1,0 +1,29 @@
+# Codexo - Local Blog
+
+> Codexo is a AI Software Services serving Atlanta, GA. This blog publishes weekly local SEO, GEO, and AEO content to help residents find trusted local services.
+
+## About
+
+- **Business:** Codexo
+- **Industry:** AI Software Services
+- **Location:** Atlanta, GA
+- **Website:** https://codexotech.com
+- **Blog:** https://localblog.codexotech.com/blog/
+
+## Topics Covered
+
+This blog covers local service topics including: ai software services acworth ga reviews, ai software services acworth ga jobs, rolm ai, logical technology phone call, who are the big 3 ai companies, who are the 7 ai companies, what are the top 10 ai companies right now, what is the ai strategy in georgia
+
+## Content Schedule
+
+- Monday: SEO articles targeting local search keywords
+- Wednesday: Local authority content (best-of lists, how-to guides, cost guides)
+- Thursday: GEO and AEO content optimized for AI search engines
+
+## Sitemap
+
+https://localblog.codexotech.com/sitemap.xml
+
+## Contact
+
+For questions about Codexo, visit https://codexotech.com
