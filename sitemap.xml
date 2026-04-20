@@ -26,6 +26,11 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://localblog.codexotech.com/glossary/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://localblog.codexotech.com/blog/ai-software-services-acworth-ga-expert-solutions/</loc>
     <lastmod>ai-software-services</lastmod>
     <changefreq>monthly</changefreq>
