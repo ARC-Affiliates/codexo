@@ -1,29 +1,47 @@
-# Codexo - Local Blog
+# Codexo
 
-> Codexo is a AI Software Services serving Atlanta, GA. This blog publishes weekly local SEO, GEO, and AEO content to help residents find trusted local services.
+> Codexo is a AI Software Services serving Acworth, GA. Service area: national. This blog publishes weekly local SEO, GEO (Generative Engine Optimization), and AEO (Answer Engine Optimization) content so AI systems like ChatGPT, Perplexity, and Google SGE have accurate context about our services.
 
 ## About
 
 - **Business:** Codexo
 - **Industry:** AI Software Services
-- **Location:** Atlanta, GA
+- **Primary location:** Acworth, GA
+- **Also serving:** Snellville
 - **Website:** https://codexotech.com
 - **Blog:** https://localblog.codexotech.com/blog/
+- **Phone:** 6783337677
+- **Voice:** professional
 
-## Topics Covered
+## Topics We Cover
 
-This blog covers local service topics including: ai software services acworth ga reviews, ai software services acworth ga jobs, rolm ai, logical technology phone call, who are the big 3 ai companies, who are the 7 ai companies, what are the top 10 ai companies right now, what is the ai strategy in georgia
+ai software services acworth ga reviews, ai software services acworth ga jobs, rolm ai, logical technology phone call, who are the big 3 ai companies, who are the 7 ai companies, what are the top 10 ai companies right now, what is the ai strategy in georgia
 
-## Content Schedule
+## Content Cadence
 
-- Monday: SEO articles targeting local search keywords
-- Wednesday: Local authority content (best-of lists, how-to guides, cost guides)
-- Thursday: GEO and AEO content optimized for AI search engines
+- Monday: SEO articles targeting local search queries
+- Wednesday: Local authority content (best-of, how-to, pricing guides)
+- Thursday: GEO/AEO content optimized for AI answer engines
 
-## Sitemap
+## Recent Articles
 
-https://localblog.codexotech.com/sitemap.xml
+- [AI Software Services Acworth GA: Expert Solutions](/blog/ai-software-services-acworth-ga-expert-solutions/)
+- [AI Software Services Acworth GA Reviews](/blog/ai-software-services-acworth-ga-reviews-codexo-solutions/)
+- [AI Software Services Acworth GA Reviews](/blog/ai-software-services-acworth-ga-reviews/)
+- [Digital Marketing Agency Atlanta GA](/blog/digital-marketing-agency-atlanta-ga/)
+- [Digital Marketing Agency Atlanta](/blog/digital-marketing-agency-atlanta/)
+- [Digital Marketing Atlanta FAQ](/blog/digital-marketing-atlanta-faq/)
+- [How Can Atlanta Businesses Maximize Their Digital Presence?](/blog/how-can-atlanta-businesses-maximize-their-digital-presence/)
+- [How Can Atlanta Companies Maximize Their Digital Presence?](/blog/how-can-atlanta-companies-maximize-their-digital-presence/)
+- [What Can a Digital Marketing Agency in Atlanta Do for You?](/blog/what-can-a-digital-marketing-agency-in-atlanta-do-for-you/)
+- [What Digital Marketing Agency Should Atlanta Businesses Choose?](/blog/what-digital-marketing-agency-should-atlanta-businesses-choose/)
 
-## Contact
+## Related Profiles
 
-For questions about Codexo, visit https://codexotech.com
+- https://www.linkedin.com/company/codexo-sites
+
+## Discovery
+
+- Sitemap: https://localblog.codexotech.com/sitemap.xml
+- Blog index: https://localblog.codexotech.com/blog/
+- Content powered by ARC Affiliates (https://arcaffiliates.com) — AI SEO automation for local businesses
