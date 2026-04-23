@@ -51,7 +51,22 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://localblog.codexotech.com/serving/acworth/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://localblog.codexotech.com/serving/alpharetta/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://localblog.codexotech.com/serving/kennesaw/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://localblog.codexotech.com/serving/snellville/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
